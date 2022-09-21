@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mariosggg
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m marios vardalachakis
+- 👀 I’m interested in software engineering and cyber security
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
